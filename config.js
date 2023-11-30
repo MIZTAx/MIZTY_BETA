@@ -8,20 +8,20 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['94701337346', 'MIZTA', true],
-  [' ', 'DINUWA', true],
-  ['94774533771)', '💫 Mystic - Collaborator 2 💫', true],
+  ['94703199484', 'KDDR', true],
+  [' ', 'DINETH', true],
+  ['94703199484)', '💫 KDDR - Collaborator 2 💫', true],
 ];
 
-global.suittag = ['94701337346'];
-global.prems = ['94774533771'];
+global.suittag = ['94703199484'];
+global.prems = ['94760819661'];
 
 global.packname = '(☞ﾟ∀ﾟ)☞';
-global.author = '★MIZTY - 𝙱𝚘𝚝★';
-global.wm = '★𝚃𝚑𝚎 MIZTY - 𝙱𝚘𝚝★';
-global.titulowm = '🤖 ＴＨＥ MIZTY － ＢＯＴ 🤖';
-global.titulowm2 = `乂  𝚃 𝙷 𝙴  𝙼 I Z T Y  -  𝙱 𝙾 𝚃  乂`
-global.igfg = '★MIZTY - 𝙱𝚘𝚝★';
+global.author = '★KDDR - 𝙱𝚘𝚝★';
+global.wm = '★𝚃𝚑𝚎 KDDR - 𝙱𝚘𝚝★';
+global.titulowm = '🤖 ＴＨＥ KDDR － ＢＯＴ 🤖';
+global.titulowm2 = `乂  𝚃 𝙷 𝙴  K D D R  -  𝙱 𝙾 𝚃  乂`
+global.igfg = '★KDDR - 𝙱𝚘𝚝★';
 global.wait = '*[🔷]WAIT A MOVEMENT...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -42,11 +42,11 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`;
-global.gt = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
-global.mysticbot = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 Kddr - 𝙱𝚘𝚝`;
+global.gt = '★𝚃𝚑𝚎 kddr - 𝙱𝚘𝚝★';
+global.mysticbot = '★𝚃𝚑𝚎 kddr - 𝙱𝚘𝚝★';
+global.md = 'https://github.com/kddrfake/TheMystic-Bot-MD';
+global.mysticbot = 'https://github.com/kddrfake/TheMystic-Bot-MD';
 global.waitt = '*[❗] WAIT A ᴍᴏᴍᴇɴᴛ...*';
 global.waittt = '*[❗] WAIT A ᴍᴏᴍᴇɴᴛ...*';
 global.waitttt = '*[❗] WAIT A ᴍᴏᴍᴇɴᴛ...*';
